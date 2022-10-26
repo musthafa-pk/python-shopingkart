@@ -1,0 +1,6 @@
+.heading{
+    font-size: 48px;
+    color: aqua;
+    display: flex;
+    justify-content: center;
+}
